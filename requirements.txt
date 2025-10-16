@@ -1,0 +1,6 @@
+skl2onnx==v1.19.1
+pythailnlp==5.1.2
+fasttext-wheel
+joblib
+scikit-learn
+numpy
